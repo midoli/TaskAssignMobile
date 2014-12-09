@@ -17,5 +17,5 @@ id="com.midolitech.iPhone" version="0.2.0.0">
 	<gap:splash src="img/TaskAssign_mobile960x640.png" width="640" height="960"/>
 	<gap:splash src="img/TaskAssign_mobile960x640.png" width="768" height="1004"/>
 	<gap:splash src="img/TaskAssign_mobile960x640.png" width="1024" height="748"/>
-	<preference name="phonegap-version" value="2.3.0" />
+	<preference name="phonegap-version" value="3.1.0" />
 </widget>
