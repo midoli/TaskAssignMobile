@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+#background{
+	width:1024px;
+	height:768px;
+}
+#background img{
+	z-index:-1;}
+#menu{
+	background-repeat: no-repeat;
+	position:relative;
+	top:-300px;
+	z-index:0;}
+.menu_v1 {
+	height:158px;
+	border:0px;
+	margin:0 auto;
+	}
+.menu_v1 td{
+	width:112px;
+	margin-right: 10px;
+	margin-left: 10px;
+	height: 158px;
+}
+
+.SelectTask{ background-color:#EBF5FF;}
+#btn_MyTaskHistory,#btn_MyAssignToHistory
+{
+    background-image:url('img/Aicon.png');
+    background-position:-6px -2px;
+    width:56px;
+    height:30px;
+}
+#btn_MyTaskDetail,#btn_MyAssignToDetail
+{
+    background-image:url('img/Bicon.png');
+    background-position:-6px -2px;
+    width:56px;
+    height:30px;
+}
+#btn_Add2,#btn_Add3,#btn_e_Add1,#btn_e_Add2,#btn_Add1
+{
+    background-image:url('img/new_icon.png');
+    margin: 13px -6px 0 0;
+    width:26px;
+    height:26px;
+    background-repeat:no-repeat;
+    background-size:20px;
+}
